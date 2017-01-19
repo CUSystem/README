@@ -9,7 +9,7 @@ No one _loves_ rules. However, the use of this organization and repo system is a
 
 1. Public Information => No secrets, encrypted or otherwise. 
 
-    Use the internal source control repos if your code contains secrets of any kind.
+    Do not use GitHub-based repos if your code contains secrets of any kind.
     
     A corralary to this is to limit the amount of side-channel information about internal server names. Scrub your hiera or yaml templates before committing please.
     
