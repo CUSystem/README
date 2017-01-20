@@ -48,7 +48,7 @@ Citation and references supporting the use of Opensource licensing and attributi
 
 > © Regents of the University of Colorado
 
--- Sharon Grant, UIS, 10/11/2016
+-- Email to Steve Taylor from Sharon Grant, UIS, 10/11/2016
 
 ## Re Open-source licensing:
 
@@ -56,7 +56,7 @@ Citation and references supporting the use of Opensource licensing and attributi
 
 > It is a bit different when you’re a non-CU researcher and you’re developing code as part of your duties for UIS.  I recommend you discuss your plans to release the code open source with your supervisor first and determine if UIS has preferred licenses to use.   If you have buy-in from your supervisor and there’s no UIS guidance on OSI licenses, then as I mentioned above, you can decide which license to apply.
 
--- Molly Markley, Technology Transfer, 10/13/2016
+-- Email to Steve Taylor from Molly Markley, Technology Transfer, 10/13/2016
 
 #EOF
 Steve Taylor, JAN-2017, © Regents of the University of Colorado
