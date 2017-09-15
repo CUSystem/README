@@ -5,7 +5,7 @@ Rules and administration for the use of the GitHub CUSystem organization.
 Supporting four campuses, CU University Information System (UIS) creates, maintains, and administers multiple shared and bespoke systems. On occasion we determine that code and information used in the pursuit of excellent University support should be shared with our campus partners and the general public.
 
 # Rules for Repo Contributors
-No one _loves_ rules. However, the use of this organization and repo system is a privelege. Please take a moment to review the following "gates" to see if your code fits here.
+No one _loves_ rules. However, the use of this organization and repo system is a privilege. Please take a moment to review the following "gates" to see if your code fits here.
 
 1. Public Information => No secrets, encrypted or otherwise. 
 
