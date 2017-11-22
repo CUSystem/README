@@ -11,7 +11,7 @@ No one _loves_ rules. However, the use of this organization and repo system is a
 
     Do not use GitHub-based repos if your code contains secrets of any kind.
     
-    A corralary to this is to limit the amount of side-channel information about internal server names. Scrub your hiera or yaml templates before committing please.
+    A corollary to this is to limit the amount of side-channel information about internal server names. Scrub your hiera or yaml templates before committing please.
     
     Please only select 'public' if you create new repositories under this organization. We have no mandate for private repos.
 
